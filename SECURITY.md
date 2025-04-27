@@ -10,3 +10,4 @@
 ## Reporting a Vulnerability
 
 Please use [issues](https://github.com/Samsung/CredSweeper/issues) to report about any security issue.
+dafaretafase2@gmail.com 
